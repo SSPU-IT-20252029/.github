@@ -6,7 +6,7 @@
 
 - 💬 Ask us about: **our studies at SŠPU Opava, tech stack, or class repositories**
 
-- 📫 How to reach us: **open a [discussion](https://github.com/orgs/SSPU-IT-20252029/discussions/new/choose)**
+- 📫 How to reach us: **open a [discussion](https://github.com/orgs/SSPU-IT-20252029/discussions/new?category=support-contact)**
 
 - ⚡ Fun fact: **we turn caffeine and code into working software (most of the time)**
 
